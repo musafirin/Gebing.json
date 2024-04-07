@@ -1,1 +1,1 @@
-# Gebing.json
+["bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr","bozkurt.hazarr"]
